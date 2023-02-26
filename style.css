@@ -1,0 +1,48 @@
+
+body{
+    background-color: deepskyblue;
+   /* max-width: 150px;
+    max-height: 150px;
+*/}
+.photo{
+    
+    border-style: solid;
+    border-color: aqua;
+    max-width: 150px;
+    max-height: 150px;
+    margin-left:120px ;
+    margin-right:120px;
+    border-radius: 50px;
+}
+table,td{
+    border:1px solid;
+    border-collapse: collapse;  
+}
+table,ul,ol,li{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.t1{
+    margin-left: 160px;
+    margin-right: 160px;    
+}
+.t2{
+    margin-left: 155px;
+    margin-right: 155px; 
+
+}
+.t3{
+    text-align: justify;
+           
+}
+table{
+    align-items: end;
+}
+tr,td{
+    text-align: center;
+}
+
+.summary{
+    text-overflow:inherit; 
+}
