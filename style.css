@@ -1,7 +1,7 @@
 
 body{
-    background-color: deepskyblue;
-   /* max-width: 150px;
+    /*background-color: deepskyblue;
+    max-width: 150px;
     max-height: 150px;
 */}
 .photo{
@@ -10,8 +10,7 @@ body{
     border-color: aqua;
     max-width: 150px;
     max-height: 150px;
-    margin-left:120px ;
-    margin-right:120px;
+    margin-left:100px ;
     border-radius: 50px;
 }
 table,td{
@@ -24,13 +23,10 @@ table,ul,ol,li{
     margin-right: 20px;
 }
 .t1{
-    margin-left: 160px;
-    margin-right: 160px;    
+   text-align: center;   
 }
 .t2{
-    margin-left: 155px;
-    margin-right: 155px; 
-
+  text-align: center;
 }
 .t3{
     text-align: justify;
